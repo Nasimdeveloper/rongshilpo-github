@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    text-align: center;
+}
+
+.logo img {
+    width: 160px;
+    margin-top: -80px;
+    margin-right: 530px;
+}
+
+header {
+    background: #00AEEF;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.hero img {
+    width: 100%;
+    height: auto;
+}
+
+.content {
+    padding: 20px;
+}
+
+.service {
+    margin: 20px 0;
+}
+
+.service h2 {
+    color: #0044cc;
+}
+
+.service p {
+    font-size: 16px;
+    color: #333;
+}
+
+.service img {
+    width: 80%;
+    border-radius: 5px;
+}
+
+.color-options {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.color-options span {
+    background: lightgray;
+    padding: 5px 10px;
+    margin: 0 5px;
+    border-radius: 5px;
+}
+
+footer {
+    background: #00AEEF;
+    padding: 20px 0;
+    margin-top: 20px;
+}
+
+.social-icons img {
+    width: 70px;
+    height: 70px;
+    margin: -20px 10px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+footer nav ul {
+    margin-top: 2px;
+}
+
+footer nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer nav ul li a {
+    color: white;
+    text-decoration: none;
+}
